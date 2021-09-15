@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--syn-fredexplotest-nprod-caea-001-dlsexplotestnprodcaea002",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/92faf3ce-c234-409e-8620-6245fe817e93/resourceGroups/rg-fredexplotest-nprod-caea-001/providers/Microsoft.Storage/storageAccounts/dlsexplotestnprodcaea002",
+		"groupId": "dfs",
+		"fqdns": [
+			"dlsexplotestnprodcaea002.dfs.core.windows.net"
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--syn-fredexplotest-nprod-caea-001",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/92faf3ce-c234-409e-8620-6245fe817e93/resourceGroups/rg-fredexplotest-nprod-caea-001/providers/Microsoft.Synapse/workspaces/syn-fredexplotest-nprod-caea-001",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"syn-fredexplotest-nprod-caea-001-ondemand.6b5eaffd-6d76-487c-80d0-92e895c63467.sql.azuresynapse.net"
+		]
+	}
+}

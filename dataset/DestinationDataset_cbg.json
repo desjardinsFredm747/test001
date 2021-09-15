@@ -1,0 +1,23 @@
+{
+	"name": "DestinationDataset_cbg",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "link2_fredexplotest",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "out",
+				"fileSystem": "fs-fredexplotest-nprod-caea-001"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": []
+	},
+	"type": "Microsoft.Synapse/workspaces/datasets"
+}
